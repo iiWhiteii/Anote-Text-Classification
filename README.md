@@ -14,7 +14,7 @@ While the BERT model demonstrates an impressive 93% accuracy on the testing data
 
 
 ## Confusion Matrix 
-<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/ConfusionMatrix.JPG" alt="Confusion Matrix" width="500">
+<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/ConfusionMatrix.JPG" alt="Confusion Matrix" width="600">
 
 
 
