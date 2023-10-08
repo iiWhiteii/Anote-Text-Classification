@@ -17,7 +17,8 @@ While the BERT model demonstrates an impressive 93% accuracy on the testing data
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/ConfusionMatrix.JPG" alt="Confusion Matrix" width="600">
 
 
-
-
+## Active Learning 
+Active learning is a machine learning approach where a model engages with a human annotator to strategically select which instances to label. 
+This iterative process helps the model learn more effectively with minimal labeled data, making it particularly useful in situations where obtaining labeled data is challenging or expensive
 
 
