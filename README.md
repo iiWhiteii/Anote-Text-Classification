@@ -7,6 +7,9 @@ I have successfully implemented and fine-tuned a BERT model to generate predicti
 
 ![Testing Snapshot](https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/Capture.JPG)
 
+![Testing Snapshot](https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/Capture2.JPG)
+
+
 
 
 
