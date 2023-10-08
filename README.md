@@ -6,7 +6,7 @@ Currently, we are in the process of developing and testing various models, inclu
 <div style="position: relative; display: flex; align-items: flex-start;">
     <!-- Image on the left -->
     <div style="width: 50%;">
-            <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/Capture.JPG" alt="GIF" style="width: 100%;">
+            <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/Capture.JPG" alt="GIF" style="width: 50%;">
         </a>
     </div>
     <!-- Text on the right -->
