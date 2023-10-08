@@ -18,7 +18,7 @@ While the BERT model demonstrates an impressive 93% accuracy on the testing data
 
 
 ## Active Learning 
-Active learning is a machine learning approach where a model engages with a human annotator to strategically select which instances to label. 
+Currently, I'm trying to implement Active learning with various model like bert. The approach is where a  model engages with a human annotator to strategically select which instances to label. 
 This iterative process helps the model learn more effectively with minimal labeled data, making it particularly useful in situations where obtaining labeled data is challenging or expensive
 
 
