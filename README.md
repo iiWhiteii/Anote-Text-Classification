@@ -9,8 +9,12 @@ I have successfully implemented and fine-tuned a BERT model to generate predicti
 
 While the BERT model demonstrates an impressive 93% accuracy on the testing data, it's crucial to acknowledge that real-world applications often involve unstructured data, and we may encounter lower accuracy expectations. To tackle this challenge, we employ a technique known as active learning.
 
-![Testing Snapshot 2](https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/Capture2.JPG)
-![Confusion Matrix](https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/ConfusionMatrix.JPG)
+## BERT Model Accuracy
+![Testing Snapshot 2](https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/Capture2.JPG)     
+
+
+## Confusion Matrix 
+![Confusion Matrix](https://github.com/Whiteii/Anote-Text-Classification/blob/main/FineLabel/ConfusionMatrix.JPG){:width="300px"}
 
 
 
