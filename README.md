@@ -20,6 +20,6 @@ While the BERT model demonstrates an impressive around 93% accuracy, precision, 
 ## Active Learning 
 I have implemented an active learning approach using a BERT model. In this approach, the model engages with a human annotator to strategically select which instances to label. I simulated this process based on our dataset, where everything is already labeled. I simulated a scenario as if we only had limited resources, like in the real world with only 100 labels. 
 
-<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Asset/Active_Learning.png" width="600">
+<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Asset/Active_Learning.png" width="800">
 
 
