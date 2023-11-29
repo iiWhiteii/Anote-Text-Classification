@@ -31,45 +31,18 @@ After fine-tuning the models with human feedback and additional labeled examples
 The dataset consists of a total of 77 unique labels, each representing a specific banking-related query or concern. This diverse set of labels reflects a wide range of potential issues and inquiries within the banking domain, providing a comprehensive foundation for analysis and classification tasks.
 
 #### Model Performance Comparison:
-- **GPT3.5 Turbo Model:**
-  - Accuracy: 61% to 77%
-  - Recall: 63.56% to 79.27%
-  - Precision: 71.36% to 73.58%
 
-- **BERT Model:**
-  - Accuracy: 1% to 23%
-  - Recall: 1% to 23.77%
-  - Precision: 83% to 70%  <!-- Place BERT in the middle -->
-
-- **RNN Model:**
-  - Accuracy: 1% to 18%
-  - Recall: 3% to 18%
-  - Precision: 87% to 32%  <!-- Place RNN on the left -->
-
-
-### Benchmark On Craigslist Dataset
-
-#### Model Performance Comparison:
-- **GPT3.5 Turbo Model:**
-  - Accuracy: 88.2% to 95.7%
-  - Recall: 80.34% to 93.79%
-  - Precision: 90.46% to 94.68%
-
-- **BERT Model:**
-  - Accuracy: 22.6% to 89.6%
-  - Recall: 16.66% to 83.11%
-  - Precision: 87% to 92%
-
-- **RNN Model:**
-  - Accuracy: 1% to 18%
-  - Recall: 3% to 18%
-  - Precision: 87% to 32%
-
- <style> table { font-family: "Arial"; } </style> <table> <tr> <th></th> <th>Banking</th> <th>Craigslist</th> <th>TREC</th> </tr> <tr> <td>Accuracy</td> <td>GPT3.5 - 77%</td> <td>GPT3.5 - 96% </td> <td>GPT3.5 - 95%</td> </tr> <tr> <td>Accuracy</td> <td>BERT - 23.77%</td> <td>BERT - 92.00%</td> <td>BERT - 89.60%</td> </tr> <tr> <td>Accuracy</td> <td>RNN - 18.56%</td> <td>RNN - 34.00%</td> <td>RNN - 79.20%</td> </tr> <tr> <td>Precision</td> <td>GPT3.5 - 73.58%</td> <td>GPT3.5 - 94.68%</td> <td>GPT3.5 - 95.81%</td> </tr> <tr> <td>Precision</td> <td>BERT - 70.64%</td> <td>BERT - 90.48%</td> <td>BERT - 92.94%</td> </tr> <tr> <td>Precision</td> <td>RNN - 32.79%</td> <td>RNN - 31.10%</td> <td>RNN - 73.06%</td> </tr> <tr> <td>Recall</td> <td>GPT3.5 - 79.26%</td> <td>GPT3.5 - 93.79%</td> <td>GPT3.5 - 82.81%</td> </tr> <tr> <td>Recall</td> <td>BERT - 23.64%</td> <td>BERT - 89.56%</td> <td>BERT - 83.11%</td> </tr> <tr> <td>Recall</td> <td>RNN - 18.54%</td> <td>RNN - 29.83%</td> <td>RNN - 79.35%</td> </tr> </table>
-
-
-
-
+| Model  | Task       | Accuracy | Precision | Recall |
+|--------|------------|----------|-----------|--------|
+| GPT3.5 | Banking    | 77.00%   | 73.58%    | 79.26% |
+| GPT3.5 | Craigslist | 96.00%   | 94.68%    | 93.79% |
+| GPT3.5 | TREC       | 95.00%   | 95.81%    | 82.81% |
+| BERT   | Banking    | 23.77%   | 70.64%    | 23.64% |
+| BERT   | Craigslist | 92.00%   | 90.48%    | 89.56% |
+| BERT   | TREC       | 89.60%   | 92.94%    | 83.11% |
+| RNN    | Banking    | 18.56%   | 32.79%    | 18.54% |
+| RNN    | Craigslist | 34.00%   | 31.10%    | 29.83% |
+| RNN    | TREC       | 79.20%   | 73.06%    | 79.35% |
 
 
 
