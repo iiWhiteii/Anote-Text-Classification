@@ -1,4 +1,7 @@
 # Enhancing Language Model Accuracy: The Power of a Few Labeled Examples
+[![Alt text](image_url)](https://medium.com/@Liang./enhancing-language-model-accuracy-the-power-of-a-few-labeled-examples-92eae5771323)
+
+
 
 **Description:**
 As student this project with Anote AI, addressing challenges in Large Language Models (LLMs) like GPT-3.5 Turbo, BERT, and RNN. In the early days, LLMs required extensive labeled data, posing time and cost challenges. Real-world data complexities, being messy and unstructured, made effective analysis difficult.
@@ -25,34 +28,6 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 ### Confusion Matrix
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/GPT3.5_Turbo/Evaluation/Confusion%20Matrix%20for%20Banking%20GPT3.5_Turbo%20Prediction.png" width="500">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
