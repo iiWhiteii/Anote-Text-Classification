@@ -12,7 +12,7 @@ To overcome these hurdles, we introduce an active learning approach, enhancing t
 1. [Installation](#installation)
 ---
 
-Findings
+### Findings
 #### 1. Accuracy Improvement
 
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. This result supports the effectiveness of the active learning approach in enhancing the models' understanding of specific domains.
