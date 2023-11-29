@@ -12,17 +12,15 @@ To overcome these hurdles, we introduce an active learning approach, enhancing t
 1. [Installation](#installation)
 ---
 
-### Findings
- 1. Accuracy Improvement
-
+### Accuracy Improvement
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. This result supports the effectiveness of the active learning approach in enhancing the models' understanding of specific domains.
 
- 2. Finding
-
+### Finding
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. Notably, our experiments revealed that incorporating targeted training on areas where the model is weak played a pivotal role. This iterative approach allowed the model to gradually enhance its proficiency in handling specific domains.
 
+### Banking Performance 
+![Banking Performance](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG)
 
- 3. Performance 
 
 
 
