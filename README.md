@@ -1,5 +1,5 @@
 # Enhancing Language Model Accuracy: The Power of a Few Labeled Examples
-[![Alt text](image_url)](https://medium.com/@Liang./enhancing-language-model-accuracy-the-power-of-a-few-labeled-examples-92eae5771323)
+[![Alt text](https://cdn-icons-png.flaticon.com/512/5968/5968906.png)](https://medium.com/@Liang./enhancing-language-model-accuracy-the-power-of-a-few-labeled-examples-92eae5771323)
 
 
 
