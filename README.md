@@ -1,4 +1,3 @@
-# Enhancing Language Model Accuracy: The Power of a Few Labeled Examples
 # Project Name
 
 **Description:**
@@ -19,17 +18,12 @@ A brief description of your project and its purpose.
 
 ### Prerequisites
 
-Make sure you have Python and pip installed.
+Make sure you have Python, pip, and git installed.
 
-### Clone the Repository
+### Clone the Repository and Install Dependencies
 
 ```bash
 git clone https://github.com/Whiteii/Anote-Text-Classification.git
 cd Anote-Text-Classification
 pip install -r requirements.txt
-
-
-
-
-
 
