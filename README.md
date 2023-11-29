@@ -1,6 +1,6 @@
 # Enhancing Language Model Accuracy: The Power of a Few Labeled Examples
 <a href="https://medium.com/@Liang./enhancing-language-model-accuracy-the-power-of-a-few-labeled-examples-92eae5771323">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBv5TDSvKQ3cNaabIo74RoHjszQOQraWkCltivNIzelpt8mnVH6TvHB74jM9kmFfHweI&usqp=CAU" alt="Medium Icon" width="32px" style="margin-right: 10px;">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/6/63/Colab_favicon_256px.png/revision/latest/scale-to-width-down/170?cb=20201019224542" alt="Medium Icon" width="32px" style="margin-right: 10px;">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium Icon" width="32px">
 </a>
 
