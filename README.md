@@ -31,7 +31,14 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 </p>
 
-The dataset consists of a total of 77 unique labels, each representing a specific banking-related query or concern. This diverse set of labels reflects a wide range of potential issues and inquiries within the banking domain, providing a comprehensive foundation for analysis and classification tasks.
+One dataset comprises 77 distinct labels, each denoting a specific inquiry or transaction within the realm of banking. This dataset contains 2000 rows of data. Notably, even with a reduced set of 150 labels, the model continues to exhibit strong performance.
+
+
+
+
+
+
+
 
 #### Model Performance Comparison:
 
