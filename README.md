@@ -25,6 +25,10 @@ Make sure you have Python and pip installed.
 
 ```bash
 git clone https://github.com/Whiteii/Anote-Text-Classification.git
+cd Anote-Text-Classification
+pip install -r requirements.txt
+
+
 
 
 
