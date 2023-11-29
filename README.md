@@ -24,10 +24,13 @@ After fine-tuning the models with human feedback and additional labeled examples
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. Notably, our experiments revealed that incorporating targeted training on areas where the model is weak played a pivotal role. This iterative approach allowed the model to gradually enhance its proficiency in handling specific domains.
 
 ### Benchmark On Banking
-<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="500">
+<p align="center">
+  <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="700">
+</p>
 
 The dataset consists of a total of 77 unique labels, each representing a specific banking-related query or concern. This diverse set of labels reflects a wide range 
 of potential issues and inquiries within the banking domain, providing a comprehensive foundation for analysis and classification tasks.
+
 
 
 The reported accuracy, recall, precision with GPT3.5 Turbo model for classification. Notably, the model exhibits diverse performance from 10 labels to 150 labels
