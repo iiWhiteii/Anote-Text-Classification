@@ -1,6 +1,6 @@
 # Enhancing Language Model Accuracy: The Power of a Few Labeled Examples
 <a href="https://medium.com/@Liang./enhancing-language-model-accuracy-the-power-of-a-few-labeled-examples-92eae5771323">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Medium Icon" width="32px" style="margin-right: 8px;">
+  <img src="https://miro.medium.com/v2/resize:fit:256/0*zNcjWYiZcJgreZAs.png" alt="Medium Icon" width="32px" style="margin-right: 8px;">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium Icon" width="32px">
 </a>
 
