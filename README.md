@@ -12,6 +12,44 @@ To overcome these hurdles, we introduce an active learning approach, enhancing t
 1. [Installation](#installation)
 ---
 
+Findings
+#### 1. Accuracy Improvement
+
+After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. This result supports the effectiveness of the active learning approach in enhancing the models' understanding of specific domains.
+
+#### 2. Finding
+
+After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. Notably, our experiments revealed that incorporating targeted training on areas where the model is weak played a pivotal role. This iterative approach allowed the model to gradually enhance its proficiency in handling specific domains.
+
+
+#### 3. Performance 
+
+
+
+
+
+### Conclusion
+
+The experimental results strongly support our hypothesis. The active learning approach, complemented by fine-tuning capabilities, demonstrated remarkable effectiveness in overcoming challenges associated with LLMs, ultimately leading to improved accuracy and domain-specific proficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Installation
 
 ### Prerequisites
@@ -25,7 +63,7 @@ git clone https://github.com/Whiteii/Anote-Text-Classification.git
 cd Anote-Text-Classification
 pip install -r requirements.txt
 
-### Findings
+Findings
 
 #### 1. Accuracy Improvement
 
