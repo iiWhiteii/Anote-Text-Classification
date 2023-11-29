@@ -18,8 +18,7 @@ After fine-tuning the models with human feedback and additional labeled examples
 ### Finding
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. Notably, our experiments revealed that incorporating targeted training on areas where the model is weak played a pivotal role. This iterative approach allowed the model to gradually enhance its proficiency in handling specific domains.
 
-### Banking Performance 
-![Banking Performance](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG)
+<div style="display: flex; justify-content: space-between;">
 
 #### 1. GPT-3.5 Turbo Fine-Tuned Predictions
 ![GPT-3.5 Turbo](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/GPT3.5_Turbo/Evaluation/Confusion%20Matrix%20for%20Banking%20GPT3.5_Turbo%20Prediction.png)
@@ -29,6 +28,8 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 #### 3. RNN Predictions
 ![RNN](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/RNN/evaluation/Confusion_Matrix_Banking_Label_RNN.JPG)
+
+</div>
 
 
 
