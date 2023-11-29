@@ -22,26 +22,9 @@ After fine-tuning the models with human feedback and additional labeled examples
 
   <div style="text-align: left;">
 
-### 1. GPT-3.5 Turbo Fine-Tuned Predictions
-![GPT-3.5 Turbo](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/GPT3.5_Turbo/Evaluation/Confusion%20Matrix%20for%20Banking%20GPT3.5_Turbo%20Prediction.png)
+### Confusion Matrix
 
-  </div>
-
-  <div style="text-align: center;">
-
-### 2. BERT Predictions
-![BERT](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/BERT/Evaluation/Confusion%20Matrix%20for%20Banking%20BERT%20Prediction.png)
-
-  </div>
-
-  <div style="text-align: right;">
-
-### 3. RNN Predictions
-![RNN](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/RNN/evaluation/Confusion_Matrix_Banking_Label_RNN.JPG)
-
-  </div>
-
-</div>
+![GPT-3.5 Turbo](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/GPT3.5_Turbo/Evaluation/Confusion%20Matrix%20for%20Banking%20GPT3.5_Turbo%20Prediction.png) ![BERT](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/BERT/Evaluation/Confusion%20Matrix%20for%20Banking%20BERT%20Prediction.png) ![RNN](https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/RNN/evaluation/Confusion_Matrix_Banking_Label_RNN.JPG)
 
 
 
