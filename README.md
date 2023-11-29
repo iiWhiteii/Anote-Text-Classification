@@ -20,16 +20,30 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 <div style="display: flex; justify-content: space-between;">
 
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; text-align: left;">
+
 #### 1. GPT-3.5 Turbo Fine-Tuned Predictions
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/GPT3.5_Turbo/Evaluation/Confusion%20Matrix%20for%20Banking%20GPT3.5_Turbo%20Prediction.png" alt="GPT-3.5 Turbo" style="width: 300px; height: 300px;">
 
+</div>
+
+<div style="flex: 1; text-align: center;">
+
 #### 2. BERT Predictions
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/BERT/Evaluation/Confusion%20Matrix%20for%20Banking%20BERT%20Prediction.png" alt="BERT" style="width: 300px; height: 300px;">
+
+</div>
+
+<div style="flex: 1; text-align: right;">
 
 #### 3. RNN Predictions
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/RNN/evaluation/Confusion_Matrix_Banking_Label_RNN.JPG" alt="RNN" style="width: 300px; height: 300px;">
 
 </div>
+
+
 
 
 
