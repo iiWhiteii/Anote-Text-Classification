@@ -36,9 +36,7 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 
 
-### Conclusion
 
-The experimental results strongly support our hypothesis. The active learning approach, complemented by fine-tuning capabilities, demonstrated remarkable effectiveness in overcoming challenges associated with LLMs, ultimately leading to improved accuracy and domain-specific proficiency.
 
 
 
