@@ -32,7 +32,7 @@ The dataset consists of a total of 77 unique labels, each representing a specifi
 
 #### Model Performance Comparison:
 
-| Model  | Task       | Accuracy | Precision | Recall |
+| Model  | Dataset    | Accuracy | Precision | Recall |
 |--------|------------|----------|-----------|--------|
 | GPT3.5 | Banking    | 77.00%   | 73.58%    | 79.26% |
 | GPT3.5 | Craigslist | 96.00%   | 94.68%    | 93.79% |
