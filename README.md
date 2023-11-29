@@ -25,6 +25,14 @@ After fine-tuning the models with human feedback and additional labeled examples
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="500">
 
 
+The reported accuracy, recall, precision with GPT3.5 Turbo model for classification. Notably, the model exhibits diverse performance from 10 labels to 150 labels
+
+- Accuracy ranges between 61% and 77% from 10 labels to 150 labels
+- Recall demonstrates variability from 63.56% to 79.27%. 
+- Precision spans from 71.36% to 73.58%.
+
+
+
 
 
 
