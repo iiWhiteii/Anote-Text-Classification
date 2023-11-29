@@ -28,7 +28,7 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 The reported accuracy, recall, precision with GPT3.5 Turbo model for classification. Notably, the model exhibits diverse performance from 10 labels to 150 labels
 
-- Accuracy ranges between 61% and 77% 
+- Accuracy ranges between 61% to 77% 
 - Recall demonstrates variability from 63.56% to 79.27%. 
 - Precision spans from 71.36% to 73.58%.
 
