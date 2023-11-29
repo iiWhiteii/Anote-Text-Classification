@@ -8,9 +8,6 @@ A brief description of your project and its purpose.
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Configuration](#configuration)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ---
 
