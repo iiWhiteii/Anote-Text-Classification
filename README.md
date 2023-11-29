@@ -24,7 +24,7 @@ Make sure you have Python and pip installed.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Whiteii/Anote-Text-Classification.git
 
 
 
