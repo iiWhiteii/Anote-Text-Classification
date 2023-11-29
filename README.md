@@ -1,8 +1,9 @@
 # Enhancing Language Model Accuracy: The Power of a Few Labeled Examples
 
 **Description:**
+As student this project with Anote AI, addressing challenges in Large Language Models (LLMs) like GPT-3.5 Turbo, BERT, and RNN. In the early days, LLMs required extensive labeled data, posing time and cost challenges. Real-world data complexities, being messy and unstructured, made effective analysis difficult.
 
-Student-led, this project with Anote AI tackles challenges in Large Language Models (LLMs) like GPT-3.5 Turbo, BERT, and RNN. LLMs face difficulty handling specific domains due to training on complex, real-world data. To boost accuracy in text classification, an active learning approach is introduced—akin to providing students with clear examples for better understanding. The strategy involves fine-tuning the model through human feedback, enhancing performance in specific areas. With recent fine-tuning capabilities for GPT-3.5 Turbo and the upcoming GPT-4 release, student developers can tailor models for unique use cases. Notably, ongoing work includes implementing Claude to further augment the project's capabilities.
+To overcome these hurdles, we introduce an active learning approach, enhancing text classification accuracy. Similar to providing students with clear examples for better understanding, the strategy involves fine-tuning models through human feedback or providing more label examples.
 
 
 
