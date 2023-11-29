@@ -39,12 +39,13 @@ The dataset consists of a total of 77 unique labels, each representing a specifi
 - **BERT Model:**
   - Accuracy: 1% to 23%
   - Recall: 1% to 23.77%
-  - Precision: 83% to 70%
+  - Precision: 83% to 70%  <!-- Place BERT in the middle -->
 
 - **RNN Model:**
   - Accuracy: 1% to 18%
   - Recall: 3% to 18%
-  - Precision: 87% to 32%
+  - Precision: 87% to 32%  <!-- Place RNN on the left -->
+
 
 ### Benchmark On Craigslist Dataset
 
