@@ -9,8 +9,6 @@ Student-led, this project with Anote AI tackles challenges in Large Language Mod
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Usage](#usage)
-
 ---
 
 ## Installation
