@@ -22,10 +22,10 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 ### Finding
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. Notably, our experiments revealed that incorporating targeted training on areas where the model is weak played a pivotal role. This iterative approach allowed the model to gradually enhance its proficiency in handling specific domains.
-<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="500">
 
-
+### Benchmark 
 The reported accuracy, recall, precision with GPT3.5 Turbo model for classification. Notably, the model exhibits diverse performance from 10 labels to 150 labels
+<img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="500">
 
 - Accuracy ranges between 61% and 77% 
 - Recall demonstrates variability from 63.56% to 79.27%. 
