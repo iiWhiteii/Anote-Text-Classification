@@ -70,7 +70,3 @@ Make sure you have Python, pip, and git installed.
 git clone https://github.com/Whiteii/Anote-Text-Classification.git
 cd Anote-Text-Classification
 pip install -r requirements.txt
-
-The experimental results strongly support our hypothesis. The active learning approach, complemented by fine-tuning capabilities, demonstrated remarkable effectiveness in overcoming challenges associated with LLMs, ultimately leading to improved accuracy and domain-specific proficiency.
-
-
