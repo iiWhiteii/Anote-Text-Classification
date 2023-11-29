@@ -23,14 +23,48 @@ After fine-tuning the models with human feedback and additional labeled examples
 ### Finding
 After fine-tuning the models with human feedback and additional labeled examples, we observed a consistent improvement in accuracy across different datasets. Notably, our experiments revealed that incorporating targeted training on areas where the model is weak played a pivotal role. This iterative approach allowed the model to gradually enhance its proficiency in handling specific domains.
 
-### Benchmark 
+### Benchmark On Banking
 <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="500">
+
+The dataset consists of a total of 77 unique labels, each representing a specific banking-related query or concern. This diverse set of labels reflects a wide range 
+of potential issues and inquiries within the banking domain, providing a comprehensive foundation for analysis and classification tasks.
+
 
 The reported accuracy, recall, precision with GPT3.5 Turbo model for classification. Notably, the model exhibits diverse performance from 10 labels to 150 labels
 
-- Accuracy ranges between 61% to 77% 
-- Recall demonstrates variability from 63.56% to 79.27%. 
-- Precision spans from 71.36% to 73.58%.
+GPT3.5 Turbo model
+- Accuracy ranges from 61% to 77% 
+- Recall demonstrates from 63.56% to 79.27%
+- Precision spans from 71.36% to 73.58%
+
+BERT 
+- Accuracy ranges from 1% to 23%
+- Recall ranges from 1% to 23.77%
+- Precision ranges from 83% to 70%
+
+RNN 
+- Accuracy ranges from 1% to 18%
+- Recall ranges from 3% to 18%
+- Precision ranges from 87% to 32%
+
+### Benchmark On Craiglist Dataset
+
+GPT3.5 Turbo model
+- Accuracy ranges from 88.2% to 95.7% 
+- Recall demonstrates from 80.34% to 93.79%
+- Precision spans from 90.46% to 94.68%
+
+  BERT 
+- Accuracy ranges from 22.6% to 89.6%
+- Recall ranges from 16.66% to 83.11%
+- Precision ranges from 87% to 92%
+
+RNN 
+- Accuracy ranges from 1% to 18%
+- Recall ranges from 3% to 18%
+- Precision ranges from 87% to 32%
+
+
 
 
 
