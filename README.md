@@ -28,44 +28,41 @@ After fine-tuning the models with human feedback and additional labeled examples
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="700">
 </p>
 
-The dataset consists of a total of 77 unique labels, each representing a specific banking-related query or concern. This diverse set of labels reflects a wide range 
-of potential issues and inquiries within the banking domain, providing a comprehensive foundation for analysis and classification tasks.
+The dataset consists of a total of 77 unique labels, each representing a specific banking-related query or concern. This diverse set of labels reflects a wide range of potential issues and inquiries within the banking domain, providing a comprehensive foundation for analysis and classification tasks.
 
+#### Model Performance Comparison:
+- **GPT3.5 Turbo Model:**
+  - Accuracy: 61% to 77%
+  - Recall: 63.56% to 79.27%
+  - Precision: 71.36% to 73.58%
 
+- **BERT Model:**
+  - Accuracy: 1% to 23%
+  - Recall: 1% to 23.77%
+  - Precision: 83% to 70%
 
-The reported accuracy, recall, precision with GPT3.5 Turbo model for classification. Notably, the model exhibits diverse performance from 10 labels to 150 labels
+- **RNN Model:**
+  - Accuracy: 1% to 18%
+  - Recall: 3% to 18%
+  - Precision: 87% to 32%
 
-GPT3.5 Turbo model
-- Accuracy ranges from 61% to 77% 
-- Recall demonstrates from 63.56% to 79.27%
-- Precision spans from 71.36% to 73.58%
+### Benchmark On Craigslist Dataset
 
-BERT 
-- Accuracy ranges from 1% to 23%
-- Recall ranges from 1% to 23.77%
-- Precision ranges from 83% to 70%
+#### Model Performance Comparison:
+- **GPT3.5 Turbo Model:**
+  - Accuracy: 88.2% to 95.7%
+  - Recall: 80.34% to 93.79%
+  - Precision: 90.46% to 94.68%
 
-RNN 
-- Accuracy ranges from 1% to 18%
-- Recall ranges from 3% to 18%
-- Precision ranges from 87% to 32%
+- **BERT Model:**
+  - Accuracy: 22.6% to 89.6%
+  - Recall: 16.66% to 83.11%
+  - Precision: 87% to 92%
 
-### Benchmark On Craiglist Dataset
-
-GPT3.5 Turbo model
-- Accuracy ranges from 88.2% to 95.7% 
-- Recall demonstrates from 80.34% to 93.79%
-- Precision spans from 90.46% to 94.68%
-
-  BERT 
-- Accuracy ranges from 22.6% to 89.6%
-- Recall ranges from 16.66% to 83.11%
-- Precision ranges from 87% to 92%
-
-RNN 
-- Accuracy ranges from 1% to 18%
-- Recall ranges from 3% to 18%
-- Precision ranges from 87% to 32%
+- **RNN Model:**
+  - Accuracy: 1% to 18%
+  - Recall: 3% to 18%
+  - Precision: 87% to 32%
 
 
 
