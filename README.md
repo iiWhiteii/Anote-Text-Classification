@@ -33,7 +33,7 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 One dataset comprises 77 distinct labels, each denoting a specific inquiry or transaction within the realm of banking. This dataset contains 2000 rows of data. Notably, even with a reduced set of 150 labels, the model continues to exhibit strong performance.
 
-
+We noted the initial effectiveness of GPT-3.5 Turbo's predictions, which showed notable accuracy even without fine-tuning based on feedback, likely owing to its pretraining on general knowledge. As we gradually provided and fine-tuned with 10 labels, extending to 150, we compared its performance against all other implemented models, and GPT-3.5 emerged as the top performer.
 
 
 
