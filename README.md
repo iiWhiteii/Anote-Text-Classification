@@ -27,7 +27,10 @@ After fine-tuning the models with human feedback and additional labeled examples
 <p align="center">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="700">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Craigslist%20Dataset/Overall%20Evaluation/model_performance.JPG" width="700">
-  <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/TREC%20Dataset/Overall%20Evaluation/Model%20Performance.JPG" width="700">
+  <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/TREC%20Dataset/Coarse_Label/Overall%20Evaluation/Model%20Performance.JPG" width="700">
+  <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/TREC%20Dataset/Fine_Label/Overall%20Evaluation/Model%20Comparison.JPG" width="700">
+  <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Finance%20Dataset/Overall%20Evaluation/Capture.JPG" width="700">
+  
 
 </p>
 
@@ -64,7 +67,7 @@ For a detailed view of the confusion matrix, navigate to the [Overall Evaluation
 
 For Craigslist, navigate to the [Overall Evaluation/cm](https://github.com/Whiteii/Anote-Text-Classification/tree/main/Craigslist%20Dataset/Overall%20Evaluation/CM).
 
-For TREC, navigate to the [Overall Evaluation/cm](https://github.com/Whiteii/Anote-Text-Classification/tree/main/TREC%20Dataset/Overall%20Evaluation/CM).
+For TREC, navigate to the [Overall Evaluation/cm](https://github.com/Whiteii/Anote-Text-Classification/tree/main/TREC%20Dataset/Coarse_Label/Overall%20Evaluation/CM).
 
 
 
