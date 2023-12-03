@@ -60,6 +60,7 @@ We observed the initial effectiveness of GPT-3.5 Turbo's predictions, demonstrat
 ### SEFIT
 | Dataset              | Accuracy | Precision | Recall  |
 |----------------------|----------|-----------|---------|
+| Amazon              | 66.95%   | 54.29%    | 57.28%  |
 | Finance              | 91.76%   | 91.39%    | 73.76%  |
 | Banking              | 54.00%   | 55.68%    | 66.78%  |
 | Craigslist           | 34.00%   | 31.10%    | 29.83%  |
@@ -68,6 +69,7 @@ We observed the initial effectiveness of GPT-3.5 Turbo's predictions, demonstrat
 ### BERT
 | Dataset              | Accuracy | Precision | Recall  |
 |----------------------|----------|-----------|---------|
+| Amazon              | 60.75%   | 57.52%    | 48.02%  |
 | Finance              | 93.25%   | 92.34%    | 65.23%  |
 | Banking              | 23.77%   | 70.64%    | 23.64%  |
 | Craigslist           | 92.00%   | 90.48%    | 89.56%  |
