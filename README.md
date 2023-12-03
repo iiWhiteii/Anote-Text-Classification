@@ -47,21 +47,36 @@ We observed the initial effectiveness of GPT-3.5 Turbo's predictions, demonstrat
 
 
 
+## Model Performance Comparison
+
+### FT-GPT3.5
+| Dataset              | Accuracy | Precision | Recall  |
+|----------------------|----------|-----------|---------|
+| Finance              | 96.50%   | 95.92%    | 96.63%  |
+| Banking              | 77.00%   | 73.58%    | 79.26%  |
+| Craigslist           | 96.00%   | 94.68%    | 93.79%  |
+| TREC Coarse_Label    | 95.00%   | 95.81%    | 82.81%  |
+| TREC Fine_Label      | 91.00%   | 89.40%    | 89.79%  |
+### SEFIT
+| Dataset              | Accuracy | Precision | Recall  |
+|----------------------|----------|-----------|---------|
+| Finance              | 91.76%   | 91.39%    | 73.76%  |
+| Banking              | 54.00%   | 55.68%    | 66.78%  |
+| Craigslist           | 34.00%   | 31.10%    | 29.83%  |
+| TREC Coarse_Label    | 93.36%   | 89.26%    | 94.51%  |
+| TREC Fine_Label      | 80.08%   | 84.96%    | 57.53%  |
+### BERT
+| Dataset              | Accuracy | Precision | Recall  |
+|----------------------|----------|-----------|---------|
+| Finance              | 93.25%   | 92.34%    | 65.23%  |
+| Banking              | 23.77%   | 70.64%    | 23.64%  |
+| Craigslist           | 92.00%   | 90.48%    | 89.56%  |
+| TREC Coarse_Label    | 89.60%   | 92.94%    | 83.11%  |
+| TREC Fine_Label      | 80.80%   | 84.94%    | 57.53%  |
 
 
-#### Model Performance Post-Feedback Comparison:
 
-| Model  | Dataset    | Accuracy | Precision | Recall |
-|--------|------------|----------|-----------|--------|
-| GPT3.5 | Banking    | 77.00%   | 73.58%    | 79.26% |
-| GPT3.5 | Craigslist | 96.00%   | 94.68%    | 93.79% |
-| GPT3.5 | TREC       | 95.00%   | 95.81%    | 82.81% |
-| BERT   | Banking    | 23.77%   | 70.64%    | 23.64% |
-| BERT   | Craigslist | 92.00%   | 90.48%    | 89.56% |
-| BERT   | TREC       | 89.60%   | 92.94%    | 83.11% |
-| RNN    | Banking    | 18.56%   | 32.79%    | 18.54% |
-| RNN    | Craigslist | 34.00%   | 31.10%    | 29.83% |
-| RNN    | TREC       | 79.20%   | 73.06%    | 79.35% |
+
 
 
 
