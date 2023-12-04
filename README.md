@@ -66,7 +66,7 @@ We observed the initial effectiveness of GPT-3.5 Turbo's predictions, demonstrat
 | Banking              | 54.00%   | 55.68%    | 66.78%  |
 | Craigslist           | 91.00%   | 89.40%    | 89.77%  |
 | TREC Coarse_Label    | 93.36%   | 89.26%    | 94.51%  |
-| TREC Fine_Label      | 80.08%   | 84.96%    | 57.53%  |
+| TREC Fine_Label      | 74.40%   | 49.30%    | 73.55%  |
 ### BERT
 | Dataset              | Accuracy | Precision | Recall  |
 |----------------------|----------|-----------|---------|
