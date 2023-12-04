@@ -52,6 +52,7 @@ We observed the initial effectiveness of GPT-3.5 Turbo's predictions, demonstrat
 ### FT-GPT3.5
 | Dataset              | Accuracy | Precision | Recall  |
 |----------------------|----------|-----------|---------|
+| Amazon              | WIP  | WIP    | WIP  |
 | Finance              | 96.50%   | 95.92%    | 96.63%  |
 | Banking              | 77.00%   | 73.58%    | 79.26%  |
 | Craigslist           | 96.00%   | 94.68%    | 93.79%  |
