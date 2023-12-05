@@ -25,11 +25,17 @@ After fine-tuning the models with human feedback and additional labeled examples
 
 ### Benchmark
 <p align="center">
+  <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Amazon%20Dataset/Overall%20Evaluation/Model%20Performance.JPG" width="700">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Banking%20Dataset/Overall%20Evaluation/OverallEvaluation_Banking.JPG" width="700">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Craigslist%20Dataset/Overall%20Evaluation/model_performance.JPG" width="700">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/TREC%20Dataset/Coarse_Label/Overall%20Evaluation/Model%20Performance.JPG" width="700">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/TREC%20Dataset/Fine_Label/Overall%20Evaluation/Model%20Comparison.JPG" width="700">
   <img src="https://github.com/Whiteii/Anote-Text-Classification/blob/main/Finance%20Dataset/Overall%20Evaluation/Model%20Comparison.JPG" width="700">
+  
+
+
+
+
   
 
 </p>
@@ -42,21 +48,39 @@ We observed the initial effectiveness of GPT-3.5 Turbo's predictions, demonstrat
 
 
 
+## Model Performance Comparison
+
+### FT-GPT3.5
+| Dataset              | Accuracy | Precision | Recall  |
+|----------------------|----------|-----------|---------|
+| Amazon              | WIP  | WIP    | WIP  |
+| Finance              | 96.50%   | 95.92%    | 96.63%  |
+| Banking              | 77.00%   | 73.58%    | 79.26%  |
+| Craigslist           | 96.00%   | 94.68%    | 93.79%  |
+| TREC Coarse_Label    | 95.00%   | 95.81%    | 82.81%  |
+| TREC Fine_Label      | 91.00%   | 89.40%    | 89.79%  |
+### SEFIT
+| Dataset              | Accuracy | Precision | Recall  |
+|----------------------|----------|-----------|---------|
+| Amazon              | 66.95%   | 54.29%    | 57.28%  |
+| Finance              | 91.76%   | 91.39%    | 73.76%  |
+| Banking              | 54.00%   | 55.68%    | 66.78%  |
+| Craigslist           | 91.00%   | 89.40%    | 89.77%  |
+| TREC Coarse_Label    | 93.36%   | 89.26%    | 94.51%  |
+| TREC Fine_Label      | 74.40%   | 49.30%    | 73.55%  |
+### BERT
+| Dataset              | Accuracy | Precision | Recall  |
+|----------------------|----------|-----------|---------|
+| Amazon              | 60.75%   | 57.52%    | 48.02%  |
+| Finance              | 93.25%   | 92.34%    | 65.23%  |
+| Banking              | 23.77%   | 70.64%    | 23.64%  |
+| Craigslist           | 92.00%   | 90.48%    | 89.56%  |
+| TREC Coarse_Label    | 89.60%   | 92.94%    | 83.11%  |
+| TREC Fine_Label      | 80.80%   | 84.94%    | 57.53%  |
 
 
-#### Model Performance Post-Feedback Comparison:
 
-| Model  | Dataset    | Accuracy | Precision | Recall |
-|--------|------------|----------|-----------|--------|
-| GPT3.5 | Banking    | 77.00%   | 73.58%    | 79.26% |
-| GPT3.5 | Craigslist | 96.00%   | 94.68%    | 93.79% |
-| GPT3.5 | TREC       | 95.00%   | 95.81%    | 82.81% |
-| BERT   | Banking    | 23.77%   | 70.64%    | 23.64% |
-| BERT   | Craigslist | 92.00%   | 90.48%    | 89.56% |
-| BERT   | TREC       | 89.60%   | 92.94%    | 83.11% |
-| RNN    | Banking    | 18.56%   | 32.79%    | 18.54% |
-| RNN    | Craigslist | 34.00%   | 31.10%    | 29.83% |
-| RNN    | TREC       | 79.20%   | 73.06%    | 79.35% |
+
 
 
 
